@@ -2,7 +2,6 @@
 
 A simple and visually appealing productivity web app that combines a **Task Manager** with a **Pomodoro Timer**. This tool helps you stay focused and organized while boosting your productivity.
 
----
 
 ## 🚀 Features
 
